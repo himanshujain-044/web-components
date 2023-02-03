@@ -1,0 +1,19 @@
+{
+  "name": "custom-web-components",
+  "version": "1.0.0",
+  "description": "This contains the web components which can be used in any javascript framework or library, components are like button, checkbox, radio-buttons and etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/himanshujain-044/web-components.git"
+  },
+  "author": "Himanshu Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshujain-044/web-components/issues"
+  },
+  "homepage": "https://github.com/himanshujain-044/web-components#readme"
+}
